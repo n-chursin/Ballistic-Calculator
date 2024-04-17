@@ -1,4 +1,4 @@
-package com.plcoding.cleanarchitecturenoteapp
+package com.diploma_project.ballistic_calculator
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

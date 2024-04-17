@@ -1,4 +1,4 @@
-package com.plcoding.cleanarchitecturenoteapp.ui.theme
+package com.diploma_project.ballistic_calculator.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
