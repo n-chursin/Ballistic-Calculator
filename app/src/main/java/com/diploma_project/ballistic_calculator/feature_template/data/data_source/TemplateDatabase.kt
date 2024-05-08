@@ -11,4 +11,8 @@ import com.diploma_project.ballistic_calculator.feature_template.domain.model.Te
 abstract class TemplateDatabase: RoomDatabase() {
 
     abstract val templateDao: TemplateDao
+
+    companion object {
+        const val DATABASE_NAME = "templates_db"
+    }
 }
